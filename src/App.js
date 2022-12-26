@@ -16,6 +16,7 @@ function App() {
         <Aside showMenu={showMenu} setShowMenu={setShowMenu} />
         <Routes>
           <Route path="/" element={<Home setShowMenu={setShowMenu}/>}/>
+          <Route path="/home" element={<Home setShowMenu={setShowMenu}/>}/>
           <Route path="detail/:bookId" element={<Detail setShowMenu={setShowMenu}/>} />
           <Route path="/search/:SearchBook" element={<Search setShowMenu={setShowMenu}/>}/>
           <Route path="/search" element={<Search setShowMenu={setShowMenu}/>}/>
