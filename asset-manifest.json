@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HazE_Books/static/css/main.fb371754.css",
-    "main.js": "/HazE_Books/static/js/main.afe44d37.js",
+    "main.css": "/HazE_Books/static/css/main.00607d7e.css",
+    "main.js": "/HazE_Books/static/js/main.9360f0fa.js",
     "static/js/787.28cb0dcd.chunk.js": "/HazE_Books/static/js/787.28cb0dcd.chunk.js",
     "static/media/book.png": "/HazE_Books/static/media/book.8b52ea571eab2011c131.png",
     "static/media/book2.jpg": "/HazE_Books/static/media/book2.a85b236c7dd70c9496fd.jpg",
     "index.html": "/HazE_Books/index.html",
-    "main.fb371754.css.map": "/HazE_Books/static/css/main.fb371754.css.map",
-    "main.afe44d37.js.map": "/HazE_Books/static/js/main.afe44d37.js.map",
+    "main.00607d7e.css.map": "/HazE_Books/static/css/main.00607d7e.css.map",
+    "main.9360f0fa.js.map": "/HazE_Books/static/js/main.9360f0fa.js.map",
     "787.28cb0dcd.chunk.js.map": "/HazE_Books/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb371754.css",
-    "static/js/main.afe44d37.js"
+    "static/css/main.00607d7e.css",
+    "static/js/main.9360f0fa.js"
   ]
 }
