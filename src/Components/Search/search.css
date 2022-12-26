@@ -117,3 +117,11 @@
     }
 
 }
+
+/* //if hovering is imopsible */
+@media (hover: none) {
+    .see_detail{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0);
+    }    
+}

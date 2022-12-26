@@ -156,3 +156,20 @@
         width: 100%;
     }
 }
+
+
+/* //if hovering is imopsible */
+@media (hover: none) {
+    .go_to_detail{
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0);
+        align-items: flex-end;
+        justify-content: flex-end;
+    } 
+    
+    .go_to_detail a{
+        font-size: 1rem;
+        padding: 5px;
+        border-radius: 0;
+    }
+}
